@@ -1,17 +1,17 @@
 {
-    "title": "Ultimate-Comparison",
-    "subtitle": "Ultimate comparison framework",
+    "title": "Ultimate Messenger Comparison",
+    "subtitle": "based on Ultimate comparison framework",
     "selecttitle": "Criteria",
-    "tabletitle": "Comparison of DOM manipulation libraries",
+    "tabletitle": "Comparison of Messenger",
     "details": {
-        "header-label": "Performance",
-        "body-main-title": "Description",
-        "body": "Description",
+        "header-label": "header-label",
+        "body-main-title": "body-main-title",
+        "body": "body",
         "body-attachment-tags": [
-            "Performance",
-            "License",
-            "Showcase 2.0"
+            "body-attachment-tags1",
+            "body-attachment-tags2",
+            "body-attachment-tags3"
         ]
     },
-    "repository": "https://github.com/ultimate-comparisons/ultimate-comparison-BASE.git"
+    "repository": "https://github.com/semperor/ultimate-messenger-comparison.git"
 }
